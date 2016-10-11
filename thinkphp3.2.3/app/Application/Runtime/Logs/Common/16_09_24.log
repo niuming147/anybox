@@ -1,0 +1,12 @@
+[ 2016-09-24T20:54:41+08:00 ] ::1 /app/mode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Mode
+
+[ 2016-09-24T20:55:21+08:00 ] ::1 /app/index.php/module/action/var/value/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Module
+
